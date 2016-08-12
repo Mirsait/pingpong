@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Rotonda;
+    src: url(../fonts/Rotonda-Bold.ttf);
+}
+
+body{
+	background: url('../images/bg.png');
+	margin: 10px 100px;
+}
+
+h2{
+    font-family: Rotonda;
+}
+
+#game_canvas{
+    border: 2px solid #d3d3d3;
+    background-color: #113;
+    display: block;
+    margin: 0 auto;
+}
